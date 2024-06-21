@@ -3,6 +3,7 @@
 ## Objetivo
 
 O objetivo principal deste projeto é analisar os dados de qualidade do ar e poluição da água para identificar padrões e tendências, além de fornecer insights valiosos que possam ajudar na tomada de decisões e políticas ambientais. 
+
 Link para o banco de dados: https://www.kaggle.com/datasets/patricklford/water-and-air-quality?select=Cities1.csv
 
 ## Análises feitas
@@ -53,7 +54,7 @@ Gerar insights:
 ## Ferramentas Utilizadas
 
 - **Excel:** Para a organização inicial dos dados 
-- **Python:** Uso de funções para fazer a análise dados de bibliotecas:  
+- **Python:** Uso de funções para fazer a análise dados com as bibliotecas:  
   - `pandas`
   - `numpy`
   - `matplotlib`
