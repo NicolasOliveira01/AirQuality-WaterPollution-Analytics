@@ -43,6 +43,12 @@ Correlação entre as colunas "AirQuality" e "WaterPollution":
 Regressão entre as colunas "AirQuality" e "WaterPollution":
   - faz previsões e infere causalidade entre as colunas "AirQuality" e "WaterPollution"
 
+Gerar gráficos:
+ - Com os dados de cada análise um gráfico é feito para melhorar o entendimento da análise
+
+Gerar insights:
+ - Acada análise é feito uma conclusão sobre os dados gerados
+
 ## Ferramentas Utilizadas
 
 - **Excel:** Para a organização inicial dos dados e análises exploratórias.
