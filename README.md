@@ -3,27 +3,28 @@
 ## Objetivo
 
 O objetivo principal deste projeto é analisar os dados de qualidade do ar e poluição da água para identificar padrões e tendências, além de fornecer insights valiosos que possam ajudar na tomada de decisões e políticas ambientais. 
+Link para o banco de dados: https://www.kaggle.com/datasets/patricklford/water-and-air-quality?select=Cities1.csv
 
 ## Análises feitas
 
 Dados importantes sobre o banco de dados: 
- - quantas e quais são as colunas e quais são os valores não nulos de cada coluna e o tipo de dado de cada coluna
- - quantos valores diferentes tem para cada coluna e quais são os países que aparecem e quais são 10 que mais aparecem
+ - Quantas e quais são as colunas e quais são os valores não nulos de cada coluna e o tipo de dado de cada coluna
+ - Quantos valores diferentes tem para cada coluna e quais são os países que aparecem e quais são 10 que mais aparecem
 
 Métricas Básicas de cada coluna:
- - valores nulos e não nulos
- - valor mínimo e máximo
- - moda, média e mediana
- - quantile 25,50 e 70
- - desvio padrão e variância
+ - Valores nulos e não nulos
+ - Valor mínimo e máximo
+ - Moda, média e mediana
+ - Quantile 25,50 e 70
+ - Desvio padrão e variância
 
 Outliers:
-  - mostra valores que estão muitos dispersos
+  - Mostra valores que estão muitos dispersos
 
 Mostrando os países com as melhores/piores médias nas colunas 'AirQuality' e 'WaterPollution':
   - Separar os valores de cada páises
   - Fazer média para cada país
-  - mostrar os 10 primeiros e últimos
+  - Mostrar os 10 primeiros e últimos
 
 Dados sobre o Brasil:
   - Mostrar a quantidade de vezes que aparece dados sobre cada estado brasileiro
@@ -38,10 +39,10 @@ ANOVA:
   - Verificar se a média dos estados do sudeste são estatisticamente diferentes ou não
 
 Correlação entre as colunas "AirQuality" e "WaterPollution":
-  - mostra qual a tendência dos dados de uma coluna em relação a outra
+  - Mostra qual a tendência dos dados de uma coluna em relação a outra
 
 Regressão entre as colunas "AirQuality" e "WaterPollution":
-  - faz previsões e infere causalidade entre as colunas "AirQuality" e "WaterPollution"
+  - Faz previsões e infere causalidade entre as colunas "AirQuality" e "WaterPollution"
 
 Gerar gráficos:
  - Com os dados de cada análise um gráfico é feito para melhorar o entendimento da análise
@@ -51,8 +52,9 @@ Gerar insights:
 
 ## Ferramentas Utilizadas
 
-- **Excel:** Para a organização inicial dos dados e análises exploratórias.
-- **Python:** Para a análise de dados e visualizações, utilizando as seguintes bibliotecas:
+- **Excel:** Para a organização inicial dos dados 
+- **Python:** Uso de funções para fazer a análise dados de bibliotecas:  
   - `pandas`
+  - `numpy`
   - `matplotlib`
   - `seaborn`
