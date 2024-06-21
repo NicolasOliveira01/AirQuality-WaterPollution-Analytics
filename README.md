@@ -8,7 +8,7 @@ Link para o banco de dados: https://www.kaggle.com/datasets/patricklford/water-a
 
 ## Análises feitas
 
-Dados importantes sobre o banco de dados: 
+### Dados importantes sobre o banco de dados: 
  - Quantas e quais são as colunas e quais são os valores não nulos de cada coluna e o tipo de dado de cada coluna
  - Quantos valores diferentes tem para cada coluna e quais são os países que aparecem e quais são 10 que mais aparecem
 
