@@ -12,14 +12,14 @@ Link para o banco de dados: https://www.kaggle.com/datasets/patricklford/water-a
  - Quantas e quais são as colunas e quais são os valores não nulos de cada coluna e o tipo de dado de cada coluna
  - Quantos valores diferentes tem para cada coluna e quais são os países que aparecem e quais são 10 que mais aparecem
 
-Métricas Básicas de cada coluna:
+### Métricas Básicas de cada coluna:
  - Valores nulos e não nulos
  - Valor mínimo e máximo
  - Moda, média e mediana
  - Quantile 25,50 e 70
  - Desvio padrão e variância
 
-Outliers:
+### Outliers:
   - Mostra valores que estão muitos dispersos
 
 Mostrando os países com as melhores/piores médias nas colunas 'AirQuality' e 'WaterPollution':
@@ -32,23 +32,23 @@ Dados sobre o Brasil:
   - Quais estados possuem as piores/melhores médias nas colunas 'AirQuality' e 'WaterPollution'
   - Média do Brasil nas colunas 'AirQuality' e 'WaterPollution'
 
-Teste T:
+### Teste T:
   - Etapas necessárias antes de realizar o teste t
   - Verificar se a média de Minas Gerais, Espírito Santo e Rio de Janeiro na coluna 'AirQuality' é estatisticamente diferente ou não da média de São Paulo na coluna 'AirQuality'
 
-ANOVA:
+### ANOVA:
   - Verificar se a média dos estados do sudeste são estatisticamente diferentes ou não
 
-Correlação entre as colunas "AirQuality" e "WaterPollution":
+### Correlação entre as colunas "AirQuality" e "WaterPollution":
   - Mostra qual a tendência dos dados de uma coluna em relação a outra
 
-Regressão entre as colunas "AirQuality" e "WaterPollution":
+### Regressão entre as colunas "AirQuality" e "WaterPollution":
   - Faz previsões e infere causalidade entre as colunas "AirQuality" e "WaterPollution"
 
-Gerar gráficos:
+### Gerar gráficos:
  - Com os dados de cada análise um gráfico é feito para melhorar o entendimento da análise
 
-Gerar insights:
+### Gerar insights:
  - Acada análise é feito uma conclusão sobre os dados gerados
 
 ## Ferramentas Utilizadas
